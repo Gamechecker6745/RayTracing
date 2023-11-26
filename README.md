@@ -5,4 +5,6 @@ This gives a more realistic sense of a 3D world.
 So far, spheres are only supported. 
 A proper GUI and triangle support are in progress.
 Cheers.
-(PyGame module required to run code.)
+
+Dependencies:
+- pygame
